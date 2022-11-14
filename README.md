@@ -1,6 +1,6 @@
 ## Greetings 👋! Welcome to my developing world
 
-### I am Alberto Castel Rapu, a new full stack developer ready to create awesome apps!
+### You can call me Albert, a new full stack developer ready to create awesome apps!
 
 
 <!--
