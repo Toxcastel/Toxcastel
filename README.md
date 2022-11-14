@@ -1,10 +1,9 @@
-### Hi there 👋
+## Greetings 👋! Welcome to my developing world
+
+### I am Alberto Castel Rapu, a new full stack developer ready to create awesome apps!
 
 
-**Toxcastel/Toxcastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,9 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
 <h2 align='center'>Technology Stacks</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt='react' width=55 height=55 />
 </p>
-
+-->
           
