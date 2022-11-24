@@ -1,7 +1,8 @@
 ## Greetings 👋! Welcome to my developing world
-<!-->
-### You can call me Albert, a new full stack developer ready to create awesome apps!
 
+### You can call me Albert, a new full stack developer ready to create awesome apps!
+- 🔭 I’m currently working on my portfolio and sideprojects with friends.
+- 🌱 I’m currently learning Nextjs, TypeScript, Tailwind.
 
 <!--
 - 🔭 I’m currently working on ...
